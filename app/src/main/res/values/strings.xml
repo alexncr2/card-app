@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">CardApp</string>
+    <string name="sample_card_name">Card name</string>
+    <string name="sample_card_number">123456789</string>
+    <string name="sample_id">0</string>
+    <string name="add_card_man">Add Card Manually</string>
+    <string name="add_card_camera">Scan Code</string>
+    <string name="view_cards">View Cards</string>
+    <string name="share">Share</string>
+    <string name="comm">Communicate</string>
+    <string name="send">Send</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="hint_card_name">Card Name</string>
+    <string name="hint_card_number">Card Number</string>
+    <string name="menu_save_card">save</string>
+    <string name="no_barcode">No Barcode Detected</string>
+    <string name="save">Save</string>
+    <string name="back">Back</string>
+    <string name="exit">Exit</string>
+    <string name="menu_close">close</string>
+    <string name="doStuff">Do Stuff</string>
+    <string name="sample_help_description">sample_help_description</string>
+    <string name="sample_help_title">Help</string>
+    <string name="process_code">Process Code</string>
+    <string name="drawer_action">Action</string>
+</resources>
